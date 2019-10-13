@@ -18,5 +18,7 @@ int main() {
 
     cout << gcd(a, b);
 
+    // trick: __gcd(a,b) is the library function
+
     return 0;
 }
